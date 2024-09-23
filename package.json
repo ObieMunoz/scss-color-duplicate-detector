@@ -1,6 +1,6 @@
 {
   "name": "scss-color-similarity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Identify nearly identical color variables in SCSS files.",
   "main": "index.js",
   "bin": {
@@ -20,10 +20,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ObieMunoz/scss-color-duplicate-detector.git"
+    "url": "git+https://github.com/ObieMunoz/scss-color-similarity.git"
   },
   "bugs": {
-    "url": "https://github.com/ObieMunoz/scss-color-duplicate-detector/issues"
+    "url": "https://github.com/ObieMunoz/scss-color-similarity/issues"
   },
-  "homepage": "https://github.com/ObieMunoz/scss-color-duplicate-detector#readme"
+  "homepage": "https://github.com/ObieMunoz/scss-color-similarity#readme"
 }
